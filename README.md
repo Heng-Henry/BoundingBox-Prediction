@@ -1,4 +1,4 @@
-### Future Boundingbox Prediction 
+# Future Boundingbox Prediction 
 We perform basic occupancy forecasting from ground-truth bounding box with the below two approaches. Then compare them with some metrics such as IOU and L2 distance between prediction and ground-truth. The implementation details are in the code.
 
 
