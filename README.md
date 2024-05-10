@@ -18,6 +18,7 @@ Just use put bounding box into the neural netwok and output future waypoints.
 
 ## Analysis
 
+We could see that the IOU is decreasing as the dt 
 ![image](https://github.com/Heng-Henry/BoundingBox-Prediction/assets/90209480/f9d2ecc0-6c60-4fd8-9d9d-32b08b9bdf30)
 
 ### learn dt = 0.5
@@ -30,5 +31,7 @@ Just use put bounding box into the neural netwok and output future waypoints.
 
 ### learn dt = 2.0
 ![image](https://github.com/Heng-Henry/BoundingBox-Prediction/assets/90209480/2da40d96-b9c2-462c-9c7a-dad562330f7e)
+
+
 
 
